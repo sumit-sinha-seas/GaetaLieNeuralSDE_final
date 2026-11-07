@@ -1,0 +1,23 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Experiment outputs written to the working directory
+*_results/
+*_outputs/
+e*_results/
+sde_surrogate_results*/
+gaeta_lie_mnist_data/
+*.pkl
+*.zip
+*.csv
+*.json
+!experiments/**/*.ipynb
+*.png
+*.pdf
+
+# OS
+.DS_Store
