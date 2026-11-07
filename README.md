@@ -57,3 +57,14 @@ notebook). Outputs are written to the current working directory.
 ## License
 
 MIT
+
+## Citation
+
+```bibtex
+@inproceedings{liu2026gaetalie,
+  title     = {Gaeta--Lie Neural {SDE}s: Symmetry-Regularized Learning of Stochastic Dynamics},
+  author    = {Liu, Shida and Sinha, Sumit and Mahadevan, L.},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```
